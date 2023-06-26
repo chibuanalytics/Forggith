@@ -1,0 +1,35 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 0,
+        "y": 108.59334309895834
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 1515.7666666666667,
+            "y": 581.10000000000014
+          },
+          "nodeIndex": "Targets",
+          "nodeLineageTag": "798daaa4-a005-447e-8c06-6d2e077a8151",
+          "size": {
+            "height": 238,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "All tables",
+      "zoomValue": 60,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "All tables",
+  "defaultDiagram": "All tables"
+}
